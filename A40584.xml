@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and true relation of a horrid and detestable conspiracy against the lives, estates, and reputations of three worthy members of this present Parliament, which God long preserve</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1701</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40584</idno>
+            <idno type="STC">Wing F2315A</idno>
+            <idno type="STC">ESTC T4465</idno>
+            <idno type="EEBO-CITATION">15539542</idno>
+            <idno type="OCLC">ocm 15539542</idno>
+            <idno type="VID">103657</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40584)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103657)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1149:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and true relation of a horrid and detestable conspiracy against the lives, estates, and reputations of three worthy members of this present Parliament, which God long preserve</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1701 or 1702]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Identified on UMI microfilm as Wing F2315A Entry cancelled in 2nd ed.; item is post-1700.</note>
+                  <note>John Tredenham "... incurred odium through associating with Poussin, the French agent, 1701"--cf. DNB.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Davenant, Charles, 1656-1714.</term>
+               <term>Hammond, Anthony, 1668-1738.</term>
+               <term>Tredenham, John, 1668-1710.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:103657:1"/>
+            <pb facs="tcp:103657:1" rendition="simple:additions"/>
+            <head>A full and true <hi>Relation</hi> of a horrid and deteſtable <hi>Conſpiracy</hi> againſt the <hi>Lives, Eſtates</hi> and <hi>Reputations</hi> of <hi>Three Worthy Members</hi> of this preſent <hi>Parliament,</hi> which God long preſerve.</head>
+            <p>SUch is the reſtleſs and implacable Malice of a <hi>Fanacical Antimonarchiaecal</hi> party, conſiſting of the late Vil<g ref="char:EOLhyphen"/>lanous Miniſtry and their Underſpurleathers, and that it is hard for perſons of Great Eſtates and Qualifi<g ref="char:EOLhyphen"/>cations, who have been eminently Zealous for King <hi>William,</hi> and have Sacrificed all for reſcuing their Country from <hi>Popery</hi> and <hi>Slavery,</hi> to eſcape their curſed Machinations. This will not only appear as clear as the Sun, by the Black Deſign, which is the Subject of our preſent Narative, but thereby alſo thoſe Wret<g ref="char:EOLhyphen"/>ches cloſe Correſpondence with the <hi>French</hi> King and his Emiſſaries, will be proved more manifeſtly than by their contriving and ſolliciting the Partition-Treaty, altho that was more than enough for the Satisfaction of all well diſpoſed Loyaliſts.</p>
+            <p>Know therefore, Gentle Reader, that upon <hi>Tueſday</hi> the Twenty Third Day of this Inſtant <hi>September,</hi> be<g ref="char:EOLhyphen"/>tween the Hours of Four and Five in the Afternoon, as that renowned Author <hi>Charles Davenant</hi> Dr. of Lows, was in his retirment in certain Chambers in <hi>Greys</hi> Inn, Meditating for ſomthing to Write in the Houſe of <hi>Auſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ia</hi>'s Quarrel, a Letter was delivered to him by a Porter quite out of Breath, which deſired his preſence immediatly, at the Houſe of one Mr. <hi>Paulet</hi> in the <hi>Hay-market,</hi> commonly known by the Name of the <hi>Blew Poſts,</hi> to meet ſome of his Brethren of the ſecret Committee, about Affairs of Importance. The Doctor after ſome conſideration with himſelf, likeing the Place, and approving the Company, readily quitted his writing Dreſs, and got into a Coach, promiſing the Fellow Sixpence extraordinary for expedition. During his ſhort paſſage his Thoughts were im<g ref="char:EOLhyphen"/>ployed about the Good of his Country, reckoning upon the Downfal of half a ſcore Modern Whigs at the leaſt, as the neceſſary Reſult of ſuch a Conſultation. As ſoon as he was alighted a Footman in mourning, who waited at the bottom of the Steps, received him, and without ſpeaking a word, conducted him to a door, which upon giving three knocks, was opened. The Doctor entering was ſurpriz'd at firſt to ſee only two Gentlemen, till turn<g ref="char:EOLhyphen"/>ing to his right hand he eſpied a worthy Member, <hi>Anthony Hammond,</hi> 
+               <abbr>Eſq.</abbr> That eminent Patriot was but juſt entered the room before the Doctor, having been ſent for by a like note, and in obedience to a Summons of ſuch Authority having left unfiniſhed a very uſeful ſpeech he was preparing to ſhew, that notwithſtanding, the unhap<g ref="char:EOLhyphen"/>py Clauſe in the Succeſſion Bill, certain Perſons might vote themſelves capable of Offices and Penſions. Before the firſt Complements were over, <hi>John Tredenham,</hi> Eſp. was introduced with the ſame Ceremony, and accord<g ref="char:EOLhyphen"/>ing to his wonted Civility made an Apology for coming ſo late, as being detain'd by buſineſs of publick concern, the Collection of ſome Guineas from Friends by way of Subſcription for printing Sr. <hi>Joſeph's</hi> Speeches, with an Appendix of his own Poems.</p>
+            <p>Every one of theſe worthy Members ſuppoſed the Strangers to be well known to the other two, and by that unhappy Miſtake, without the leaſt diſtruſt, they all ſat down together. One of the Strangers lead them on in this Error, by ſhewing he was well acquainted with their ſeveral Characters. He firſt entertain'd Mr. <hi>Treden<g ref="char:EOLhyphen"/>ham,</hi> with the great performances of his Unkle. That none of the Heroes of Antipuity cut down Giants with half the eaſe he deſtroy'd Chancellors. How ſwiftly <hi>Clarendon fled</hi> before him as ſoon as he thought him unfit for meaſures he was then engaged in, which <hi>Clifford</hi> and <hi>Arlington</hi> could better carry on. And how eaſily <hi>Summers</hi> ſunk under him when time was come for carrying on again the like meaſures; and that deſpicable Crea<g ref="char:EOLhyphen"/>ture durſt ſawcily appear to obſtruct them. From that ſubject he changed his diſcourſe to the praiſes of Mr. <hi>Hammons</hi> Grandfather, exhorting him to have ever before his Eyes the Immortal Glory he had gained by his active Zeal for reſtoring an injured baniſh'd Prince, as the nobleſt Subject for his Emulation</p>
+            <p>He then Applyed himſelf to the Doctor, extolling his indefatigable Induſtry in writing ſo many Volums on Subjects of which he was thought wholly Ignorant, till the World by ſeeing the Books was convinced of the contrary. He aſcribed to thoſe Works of his the confounding of the late Helliſh Miniſtry, thoſe Robbers of the Publick, thoſe Harpies and Bloodſuckers, thoſe Friends of War, and Diſturbers of the Peace of <hi>Chriſtendom.</hi> He ſaid he was ſtudying the <hi>Engliſh</hi> Language to read his Works in the Original, and aſſured the Company that to his knowledge the <hi>French</hi> Academy had orders from the greateſt King in the Univerſe, for tranſlating them into that Language, that all his Subjects might be apprized of the Merits of the Author. He went on to tell the Doctor he knew <hi>Tueſday</hi> was one of his writing days, and that on thoſe days he faſted till Sun-ſet, in order to the keeping his head clear, for which reaſon he had prepared a good Supper that was juſt ready to be put on the Table. As this w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s no inconſiderable Complement to the Doctor, ſo it put the whole Company into good humor, and they all eat and drunk heartily without any kind of ſuſpition in the world.</p>
+            <p>After Supper was over, and the Doors Bolted again, every body ſeeming inclined to be more open-hearted, they taulk<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d freely upon all Subjects, and none more honeſtly than the Stranger, tho it is true he always ſpoke <hi>French.</hi> He rail'd at the Partition Treaty, no Man better. He commended the <hi>French</hi> Kings great Modera<g ref="char:EOLhyphen"/>tion in acceping the <hi>Spaniſh</hi> Monarchy. He praiſed the Wiſdom of thoſe who were for early owning the Duke of <hi>Anjou.</hi> He demonſtrated that thoſe that were for puting the Preſervation of the Peace of <hi>Europe</hi> into a Vote, could mean nothing but War and Deſolation. And he very ingeneouſly offered that none but an inveterate Splenetick Whig could be ſo abſurd to maintain that the calling a young Gentleman by his Fathers name was contrary to the ſenſe and meaning of the Treaty of <hi>Ryſwick.</hi> In ſhort his Subjects were ſo well choſen, and ſo prittily handled, that the Evening paſs'd pleaſantly, and they thought they were at the Fountain or the Vine.</p>
+            <p>At laſt this Stranger, with a ſerious air, told the Company of the apprehenſion the <hi>French</hi> Court was under upon certain Intelligence that the Doctor, (forgetting all former Engagments) was treating with the Houſe of <hi>Auſtria,</hi> and that this had given <hi>France</hi> more diſturbance than any News which came from <hi>Italy.</hi> He went on to take the <hi>Emperor</hi>'s <hi>Manifeſto</hi> to pieces, in order to ſhew the Doctor how bold an attempt it was to engage on ſo weak a ſide in ſuch a quarrel, and invited him to enter preſently into the Argument. The Doctor looking ſurly on the ſuddain, and daſh'd the Diſcourſe by ſaying his Talent was writing and not ſpeaking. But that he had minded what the Gentleman ſaid, and before the next Seſſion of Parliament, the World ſhould ſee five hun<g ref="char:EOLhyphen"/>dred pages in anſwer to it.</p>
+            <p>The Stranger cunningly ask'd Pardon if he had gone too far, but continued for ſome time with great inſinu<g ref="char:EOLhyphen"/>ation to endeavour to divert the Doctor from his intention likely to prove ſo fatal to <hi>France,</hi> by Arguments of Gratitude and paſt Obligations, but finding him true to his Character (for it is known in Print that the Doctor <hi>is neither to be Frighted nor Allured</hi>) he beg'd of him, if he was finally determin'd to publiſh ſo large a Volumn, againſt the Houſe of <hi>Bourbon,</hi> he would at leaſt beſtow a Qualifying Poſtcript in favour of ſo great a Family,
+<pb facs="tcp:103657:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:103657:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:103657:3" rendition="simple:additions"/>praying the Doctor not to take the propoſel ill, becauſe this would not be the firſt time he had compaſſionately vouchſafe to let his Book and Poſtcript be of two ſides. The Doctor unwilling to engage haſtily for a Poſtcript of that conſequence, before Company eſpecialy, without ſome more ſignifiant application, in ſome heat told him, his Diſcourſe was improper, and that Poſtſcripts were not ſo cheap. The other Stranger who had been ſilent for the moſt part (and as you may underſtand. Gentle Reader, proved afterwards to be the <hi>Spainiſh</hi> Agent, tho then utterly unknown) nót underſtanding the Doctors true meaning, and fearing what had been ſaid was taken as a Reflection, called out very haſtily <hi>Mounſieur Pouſſin,</hi> chang the diſcourſe.</p>
+            <p>At the name of <hi>Pouſſin</hi> the three worthy Membeer, ſtarted, and looking firſt wiſtly on one another, at the ſame inſtant demanded of the Stranger who was? He plainly told them his Name was <hi>Pouſſin,</hi> that he was the moſt Chriſtians Majeſties Agents, and had that day received Orders from the Lords Juſtices for quitting the King<g ref="char:EOLhyphen"/>dom forthwith, but that he durſt not ſee his Maſters Face unleſs he had firſt paid his reſpects to Perſons of their great Conſideration in the Kingdom. Thoſe Words were no ſooner uttered bur the Doctor cry'd out in <hi>Engliſh,</hi> Oh <hi>Hammond</hi> we are undone, ſome Curſed Whigs of the new Stamp have drawn us into this Snare. As he ſpoke, he fled to the Door, and ruſhing out ran down ſtairs, and the utmoſt preicpitation threw himſelf into the firſt Coach he ſaw, which unhappily was plying with ſome Masks in expectation of Sir <hi>Wi. Culpepper,</hi> and god knows how he would have diſengaged his Perſon if the <hi>Spaniſh</hi> Agent had not followed him, and with much ado got him home, tho in very ill Circumſtances; Mr <hi>Hammond</hi> in all the confuſion imaginable had the ſame haſty Aim at a Chair, and got into it upon the eaſier Terms of only breaking both his Sh<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s againſt one of the Polls. Mr. <hi>Tre<g ref="char:EOLhyphen"/>denham</hi> being the only man remaining, <hi>Pouſſin</hi> laid hands upon him, and told him plainly he would not leave him in this diſorder, but reſolv'd to ſee him ſafe at his Lodging, ſince they both lodged in the ſame houſe: And bid him not be diſcomforted, for they ſhould find there half a dozen of their friends who waited for their coming. This Confounded him abſolutely, and <hi>Pouſſin</hi> taking him by the Arm lead him down Stairs, and carried him to the White Poſts in <hi>Duke ſtreet</hi> St. <hi>James's,</hi> into Mr. <hi>Pouſſins</hi> own Room, which was the very next Chamber to Mr. <hi>Tredenhams.</hi> The poor Gentleman tho' he came into a Houſe where he had long Lodged, did not know where he was, (ſuch was the amazement he was in) and for Two Hours together did not know any of the Perſons he found there, tho his particular friends and daily Companions. And he does Solemnly proteſt, and believes, no one will doubt of his Veracity, that tho <hi>Pouſſin</hi> had lodged in the ſame Houſe with him for above Six Months, he never changed word with him, or ſaw his face till they met at the Blew Poſts.</p>
+            <p>Having thus Gentle Reader given thee a faithful Relation of this matter, as it is drawn up in form of an Affidvit, Subſcribed by Three worthy Members, ready to be ſworn before Sir <hi>James</hi> of the <hi>Peak's</hi> Partner, and which will be Publiſhed in the Doctors next Book, together with many material Circumſtances; I muſt now deſire thee to go along with me in making the following Remerques: <hi>Iſt</hi> to Obſerve the plain and Notorious Innocence of theſe unbiaſſed Patriots. <hi>2ly,</hi> to conſider the Horrible Malice of the Helliſh Conſpirators who drew them into this Snare: And <hi>Thirdly,</hi> to Conclude who the Perſons muſt be who could be guilty of ſuch a wicked deſign.</p>
+            <p>As for the firſt, the Innocence of the three worthy Perſons appears beyond all diſpute, by the Surprize and Conſternation they were in, as ſoon as they underſtood who their dangerous Companions were. Thou haſt hard of it in part alredy, but it is moſt certain, Mr. <hi>Hammond</hi> kept his Bed upon it two days. The Doctor was three whole days before he could be aſſured whether it was a Dream or not, during which time the Young Gentleman declared himſelf under Command to fight any one who durſt affirm a certain Perſon had been in <hi>Pouſſin</hi> Company. But at the End of that time, the Doctor being Convinced, ordered <hi>Harry</hi> to live in Peace. Their Innocence does alſo appear in the Second place, from the abſurdity of imagining that Men of their Wiſdom would in a pub<g ref="char:EOLhyphen"/>lick Houſe meet with ſuch a dangerous Perſon as Mounſieur <hi>Pouſſin,</hi> after he was forbid the Kingdom, and ſo give the Enemies to the Publick an Advantage againſt them.</p>
+            <p>In the next place, Reader, obſerve the Malice of this Contrivance, it was not to Trapan them into ſome ſlight ridiculous miſtake, but into a Crime of the higheſt Nature. Had any other Prince Commanded his Embaſſador to retire from the <hi>French</hi> Court without taking leave, and thereupon Monſieur <hi>Pouſſins</hi> Maſter had ordered that Princes Miniſter to be gone out of his Dominions in 24. Hours, whoever had ventured to have a private Converſa<g ref="char:EOLhyphen"/>tion with him after, had been broke on the Wheel. Whoever had done the like in <hi>Venice,</hi> had been tyed in a Sack and thrown into the <hi>Adriatick,</hi> and Death at leaſt had been the Puniſhment in any other Countrey. It is to be hoped the Law in <hi>England</hi> is not ſevere, but who can tell if that Wicked Party who were for making Laws <hi>ex poſt facto</hi> againſt poor Sir <hi>J. Fenwick,</hi> and Honeſt Sir <hi>Charles Duncomb,</hi> may not be nibling at a like thing again.</p>
+            <p>This leads us, Gentle Reader, to the 3d Conſideration, who the Authors of this Malitious Contrivance muſt be? In order to this, you muſt conſider that theſe unbyaſſed Patriots were all Members of the Commitee of Im<g ref="char:EOLhyphen"/>peachments, and Eminently Active in that ſervice of the Nation, and that two of them (as a Reward for that great Merit, were named Commiſſioners to ſerve their Country for nothing in the Bill of Accounts, which un<g ref="char:EOLhyphen"/>happily miſcarried, and in that Bill ſome or one at leaſt of the Impeach'd Lords was concern'd. From hence it muſt be undeniable concluded, that the Impeach'd Lords muſt be guilty of this Diabolical Project, it may well be ſo called, for ſurely Perſons of ſo great Sagacity and Integrity, unleſs under ſome Inchantment, could never have been ſo groſsly tr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>'d. It muſt be by downright Witchraft, and thoſe Lords have long lain under Suſ<g ref="char:EOLhyphen"/>pition of being engaged in that black Art. If there was no Witchcraft in the Caſe, it muſt be by ſome damna<g ref="char:EOLhyphen"/>ble Confederacy between theſe Lords (for they muſt be in it) and Mr. <hi>Pouſin,</hi> in order to Cover their own cloſe Correſpondency with <hi>France,</hi> by making an appearance at this Critical time of great Friendſhip and Inti<g ref="char:EOLhyphen"/>macy between theſe true Patriots and that Dangeros <hi>French</hi> Popiſh Miniſter, and thereby to have it believed that the <hi>French</hi> King was a Friend to thoſe proſecutions, and perhaps that the Perſons who were to ſerve their Country gratis in the Bill of Accounts, were to be paid for their pains in that matter by another hand. Add to this, the probability of making a Breach between the Emperour and the Doctor by this Artifice, and then there can be no doubt but this deteſtable Machination muſt be carried on by the late Miniſtry and their Underſpurlea<g ref="char:EOLhyphen"/>thers.</p>
+            <p>In the mean time good Reader, thou canſt not but be highly pleaſed to ſee the innocence and integrity of theſe Friends to their Country and Enemies to <hi>France,</hi> thus clearly proved: And for thy further Satisfaction, all the ſaid 3 Perſons do declare, that during the whole five Hours Converſation, there was not the leaſt word ſpoken of what was to be done the next Seſſions, not any thing ſaid againſt War, or in praiſe of Peace. No taulk of the moſt likely means for keeping up Animoſities, or of the moſt plauſible ways for delaying Supplies Not a word ſaid of the great Pity due to King <hi>James</hi> the Second, or the Great hopes due to King <hi>James</hi> the Third, nor one Jeſt made on the Bill of Succeſſion.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:103657:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
